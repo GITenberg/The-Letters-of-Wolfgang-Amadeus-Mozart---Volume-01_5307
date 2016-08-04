@@ -1,0 +1,51 @@
+_repo: The-Letters-of-Wolfgang-Amadeus-Mozart---Volume-01_5307
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Nohl, Ludwig
+    aliases:
+    - Nohl, Louis
+    - Nohl, Karl Friedrich Ludwig
+    birthdate: 1831
+    deathdate: 1885
+    gutenberg_agent_id: '4810'
+    url: http://www.gutenberg.org/2009/agents/4810
+    wikipedia: http://de.wikipedia.org/wiki/Ludwig_Nohl
+  translator:
+    agent_name: Wallace, Grace, Lady
+    aliases:
+    - Wallace, Grace Stein Don, Lady
+    - Wallace, Grace Jane
+    - Wallace, Lady
+    deathdate: 1878
+    gutenberg_agent_id: '1760'
+    url: http://www.gutenberg.org/2009/agents/1760
+    wikipedia: http://en.wikipedia.org/wiki/Grace_Jane_Wallace
+creator:
+  author:
+    agent_name: Mozart, Wolfgang Amadeus
+    aliases:
+    - Mozart, W. A. (Wolfgang Amadeus)
+    - Mozart, Johann Chrysostom Wolfgang Amadeus
+    birthdate: 1756
+    deathdate: 1791
+    gutenberg_agent_id: '1368'
+    url: http://www.gutenberg.org/2009/agents/1368
+    wikipedia: http://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Composers -- Austria -- Correspondence'
+- !lcsh 'Mozart, Wolfgang Amadeus, 1756-1791 -- Correspondence'
+- GITenberg
+title: The Letters of Wolfgang Amadeus Mozart — Volume 01
+url: http://www.gutenberg.org/ebooks/5307
